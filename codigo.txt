@@ -4,3 +4,4 @@ Bienvenidos a GIT
 
 - Paulo Vera
 - Nació en Trujillo
+- Fecha nacimiento 07/02/2000
